@@ -1,3 +1,4 @@
+# Python script which takes all the files in your Obsidian Vault and concatenates into a single text file
 import os
 
 def traverse_vault(vault_path, output_file):
